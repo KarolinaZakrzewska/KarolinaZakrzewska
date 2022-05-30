@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Karolina 👋
 
 
 #### I am interested in software testing.
