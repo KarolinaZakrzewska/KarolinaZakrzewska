@@ -9,7 +9,7 @@
 
 ##### •	Python
 
-##### •	Selenium WebDriver
+##### •	Selenium WebDriver -> e.g. https://github.com/KarolinaZakrzewska/Selenium_test_xkom
 
 ##### • DevTools
 
@@ -17,7 +17,7 @@
 
 ##### •	Bash
 
-##### •	Jira
+##### •	Jira -> e.g. https://github.com/KarolinaZakrzewska/GO4ROBOT_JIRA_MANUAL_TESTING
 
 #### 💬 Ask me something: 
 
