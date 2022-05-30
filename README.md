@@ -11,11 +11,13 @@
 
 ##### •	Selenium WebDriver
 
+##### • DevTools
+
 ##### •	Postman API
 
 ##### •	Bash
 
-##### • DevTools
+##### •	Jira
 
 #### 💬 Ask me something: 
 
