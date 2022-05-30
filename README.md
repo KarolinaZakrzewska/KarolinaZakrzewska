@@ -15,6 +15,8 @@
 
 ##### •	Bash
 
+##### • DevTools
+
 #### 💬 Ask me something: 
 
 https://www.linkedin.com/in/karolina--zakrzewska/
