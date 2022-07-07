@@ -12,7 +12,7 @@
 
 ##### •	Python
 
-##### •	Selenium WebDriver -> e.g. https://github.com/KarolinaZakrzewska/Selenium_test_xkom
+##### •	Selenium WebDriver -> e.g. https://github.com/KarolinaZakrzewska/Selenium_test_automationpractice
 
 ##### • DevTools
 
