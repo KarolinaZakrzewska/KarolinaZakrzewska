@@ -18,7 +18,7 @@ In my spare time, I run, do yoga and drink :coffee: - balance is important.
 
 ##### •	Python
 
-##### •	Selenium WebDriver -> e.g. https://github.com/KarolinaZakrzewska/Selenium_test_automationpractice
+##### •	Selenium -> e.g. https://github.com/KarolinaZakrzewska/Selenium_test_automationpractice
 
 ##### • DevTools
 
