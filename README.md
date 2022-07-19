@@ -24,7 +24,7 @@ In my spare time, I run, do yoga and drink :coffee: - balance is important.
 
 ##### •	Postman API
 
-##### •	Bash
+##### •	SQL
 
 ##### •	Jira -> e.g. https://github.com/KarolinaZakrzewska/GO4ROBOT_JIRA_MANUAL_TESTING
 
