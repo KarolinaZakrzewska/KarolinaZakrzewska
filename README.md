@@ -16,9 +16,11 @@ In my spare time, I run, do yoga and drink :coffee: - balance is important.
 
 #### 🛠 Languages and Tools:
 
+##### Projects in update :sunglasses:
+
 ##### •	Python
 
-##### •	Selenium -> e.g. https://github.com/KarolinaZakrzewska/Selenium_test_automationpractice
+##### •	Selenium 
 
 ##### • DevTools
 
@@ -26,7 +28,7 @@ In my spare time, I run, do yoga and drink :coffee: - balance is important.
 
 ##### •	SQL
 
-##### •	Jira -> e.g. https://github.com/KarolinaZakrzewska/GO4ROBOT_JIRA_MANUAL_TESTING
+##### •	Jira 
 
 #### 💬 Ask me something: 
 
