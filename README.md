@@ -20,6 +20,8 @@ In my spare time, I run, do yoga and drink :coffee: - balance is important.
 
 ##### •	Python
 
+##### •	Java
+
 ##### •	Selenium 
 
 ##### • DevTools
