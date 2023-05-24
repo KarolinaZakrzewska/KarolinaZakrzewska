@@ -16,11 +16,8 @@ In my spare time, I run, do yoga and drink :coffee: - balance is important.
 
 #### 🛠 Languages and Tools:
 
-##### Projects in update :sunglasses:
-
-##### •	Python
-
 ##### •	Java
+##### •	Python
 
 ##### •	Selenium 
 
