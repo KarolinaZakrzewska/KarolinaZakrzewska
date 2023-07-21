@@ -3,12 +3,18 @@
 
 
 
-#####  🌱 In June 2022, I graduated from the **Software Testing** program at **WSB University**.
-I have always been interested in programming and in 2021 I decided to become a tester.
 
-In 2022, I started working at Orange :orange_book: as a software tester. I will post my progress in test automation on my profile, I cordially invite you.
+I've always been interested in computers and software. The year 2021 was a breakthrough - I decided to combine my passion with work.
+
+🌱 In June 2022, I completed postgraduate studies in **Software Testing** at **WSB**.
+
+In the same year, I started working at Orange :orange_book: as a tester. 
 
 In my spare time, I run, do yoga and drink :coffee: - balance is important.
+
+#### In July 2023 I started learning the Playwright framework.
+I will post my progress in test automation on my profile, I cordially invite you.
+
 
 
 
@@ -16,18 +22,25 @@ In my spare time, I run, do yoga and drink :coffee: - balance is important.
 
 #### 🛠 Languages and Tools:
 
-##### •	Java
-##### •	Python
+###### •	Java
+###### •	Python
+###### •	Selenium 
+###### •  DevTools
+###### •	SQL
+###### •	Kibana
+###### •	Jira 
+###### •	Postman API
 
-##### •	Selenium 
 
-##### • DevTools
+#### My courses:
+###### • Szkolenie z Devtools (Adam Gola - Szkolenie dla QA)
+###### • Testy Automatyczne z Playwright (jaktestowac.pl) **:fire:  /in progress/**
 
-##### •	Postman API
-
-##### •	SQL
-
-##### •	Jira 
+#### Books that I recommend:
+###### • Zawód tester. (R. Smiglin)
+###### • Pasja testowania. (K.Jadczyk)
+###### • Certyfikowany tester ISTQB. Poziom podstawowy. (A. Roman, L. Stapp)
+###### • Testowanie full stack. Praktyczny przewodnik dostarczania oprogramowania wysokiej jakości. (G. Mohan) :fire:  /in progress/
 
 #### 💬 Ask me something: 
 
