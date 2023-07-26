@@ -22,8 +22,8 @@ I will post my progress in test automation on my profile, I cordially invite you
 
 #### 🛠 Languages and Tools:
 
-###### •	Java
-###### •	Python
+###### •	Java - basic level
+###### •	Python - basic level
 ###### •	Selenium 
 ###### •  DevTools
 ###### •	SQL
