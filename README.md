@@ -29,7 +29,6 @@ I will post my progress in test automation on my profile, I cordially invite you
 ###### •	SQL
 ###### •	Kibana
 ###### •	Jira 
-###### •	Postman API
 
 
 #### My courses:
