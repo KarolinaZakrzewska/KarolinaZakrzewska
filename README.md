@@ -1,4 +1,5 @@
-## Hi I'm Karolina 👋 ![](https://komarev.com/ghpvc/KarolinaZakrzewska)
+## Hi I'm Karolina 👋 ![](https://komarev.com/ghpvc/?username=KarolinaZakrzewska)
+
 
 
 
