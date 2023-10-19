@@ -1,8 +1,4 @@
-## Hi I'm Karolina 👋 ![](https://komarev.com/ghpvc/?username=KarolinaZakrzewska)
-
-
-
-
+## Hi I'm Karolina 👋 ![](https://komarev.com/ghpvc/?username=KarolinaZakrzewska&color=brightgreen)
 
 
 I've always been interested in computers and software. The year 2021 was a breakthrough - I decided to combine my passion with work.
