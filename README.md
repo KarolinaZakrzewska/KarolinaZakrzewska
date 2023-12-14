@@ -6,7 +6,7 @@ Actively contributing to an open-source collaboration with automation testing en
 ### About me:
 I've always been interested in computers and software. The year 2021 was a breakthrough - I decided to combine my passion with work.
 
-🌱 In June 2022, I completed postgraduate studies in **Software Testing** at **WSB**.
+🌱 **In June 2022**, I completed postgraduate studies in **Software Testing** at **WSB**.
 In the same year, I started working at Orange :orange_book: as a Software Tester. 
 In my free time, I find balance through running, yoga, and drinking ☕. **In July 2023** I started learning the Playwright framework.
 I will post my progress in test automation on my profile, I cordially invite you.
