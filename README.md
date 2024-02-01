@@ -3,7 +3,6 @@
 🌱 **In June 2022**, I completed postgraduate studies in **Software Testing** at **WSB**.
 In the same year, I started working at Orange :orange_book: as a Software Tester. 
 In my free time, I find balance through running, yoga, and drinking ☕. **In July 2023** I started learning the Playwright framework.
-I will post my progress in test automation on my profile, I cordially invite you.
 
 
 #### 🛠 Languages and Tools:
