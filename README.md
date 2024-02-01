@@ -1,25 +1,13 @@
 ## Hi I'm Karolina 👋 ![](https://komarev.com/ghpvc/?username=KarolinaZakrzewska&color=brightgreen)
 
-### Currently: 
-Actively contributing to an open-source collaboration with automation testing enthusiasts at [kat-kan/kawqa-gad-playwright](https://github.com/kat-kan/kawqa-gad-playwright).
-
-### About me:
-I've always been interested in computers and software. The year 2021 was a breakthrough - I decided to combine my passion with work.
-
 🌱 **In June 2022**, I completed postgraduate studies in **Software Testing** at **WSB**.
 In the same year, I started working at Orange :orange_book: as a Software Tester. 
 In my free time, I find balance through running, yoga, and drinking ☕. **In July 2023** I started learning the Playwright framework.
 I will post my progress in test automation on my profile, I cordially invite you.
 
 
-
-
-
-
 #### 🛠 Languages and Tools:
 •	Playwright (Typescript) - /in progress/
-    
-•	Java - basic level
     
 •	Python - basic level
     
